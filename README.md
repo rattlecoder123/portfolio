@@ -44,4 +44,4 @@ To view a live example, **[click here]()**
 # References 👏🏻
 
 - Some Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio) & [Ashutosh's Software Developer Master Portfolio](https://github.com/ashutosh1919/masterPortfolio).
-- The Logo and designs is inspired from [prettier-logo](), [LottieFile]() [Figma]().
+- The Logo and designs is inspired from [prettier-logo](), [LottieFile]() & [Figma]().
