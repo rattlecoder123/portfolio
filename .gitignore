@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/build
 
 # testing
 /coverage
@@ -16,7 +17,7 @@
 .env.development.local
 .env.test.local
 .env.production.local
-.git_data_fetcher.js
+git_data_fetcher.js
 
 npm-debug.log*
 yarn-debug.log*
